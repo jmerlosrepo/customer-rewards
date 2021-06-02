@@ -1,7 +1,7 @@
 
 export const getCustomerTransaction = () => {
     return new Promise((resolve, reject) => {
-        fetch('http://localhost:3000/data/customer-rewards.json',{
+        fetch('/data/customer-rewards.json',{
         headers : { 
           'Content-Type': 'application/json',
           'Accept': 'application/json'
