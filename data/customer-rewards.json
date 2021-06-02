@@ -1,0 +1,128 @@
+{
+    "customerRewards": {
+        "customers":[
+            {
+                "customerId": "1",
+                "firstName":"Jesus",
+                "lastName":"Merlos",
+                "email":"jmerlosg@domain.com",
+                "phone":"2064066744"
+            },
+            {
+                "customerId": "2",
+                "firstName":"Lizbeth",
+                "lastName":"Camacho",
+                "email":"lizcamachos@domain.com",
+                "phone":"2064066755"
+            }
+        ],
+        "transactions":[
+            {
+                "transactionId":"1",
+                "customerId":"1",
+                "transactionDate":"01/01/2020",
+                "total":"155.29",
+                "items":[
+                    {
+                        "itemId":"i001",
+                        "description": "Black Pen package of 6",
+                        "quantityPurchased":"2",
+                        "price":"7.00" 
+                    },
+                    {
+                        "itemId":"i002",
+                        "description": "100 page notepad",
+                        "quantityPurchased":"1",
+                        "price":"15.00" 
+                    },
+                    {
+                        "itemId":"i003",
+                        "description": "Texas Instruments Calculator",
+                        "quantityPurchased":"1",
+                        "price":"30.70" 
+                    },
+                    {
+                        "itemId":"i004",
+                        "description": "HP B/N printer acrtidge",
+                        "quantityPurchased":"1",
+                        "price":"40.65" 
+                    },
+                    {
+                        "itemId":"i005",
+                        "description": "3M Sticky notes count 100",
+                        "quantityPurchased":"2",
+                        "price":"12.15" 
+                    },
+                    {
+                        "itemId":"i006",
+                        "description": "Hard cover big file foleder",
+                        "quantityPurchased":"2",
+                        "price":"15.32" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"2",
+                "customerId":"1",
+                "transactionDate":"02/01/2020",
+                "total":"200.05",
+                "items":[
+                    {
+                        "itemId":"i021",
+                        "description": "BOSE In Ear Headphones",
+                        "quantityPurchased":"1",
+                        "price":"200.05" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"3",
+                "customerId":"2",
+                "transactionDate":"06/01/2019",
+                "total":"103.25",
+                "items":[
+                    {
+                        "itemId":"i070",
+                        "description": "HISENSE 32 inch TV",
+                        "quantityPurchased":"1",
+                        "price":"103.25" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"4",
+                "customerId":"2",
+                "transactionDate":"01/21/2020",
+                "total":"713.00",
+                "items":[
+                    {
+                        "itemId":"i080",
+                        "description": "Samnsung 19 inch Monitor",
+                        "quantityPurchased":"1",
+                        "price":"306.50" 
+                    },
+                    {
+                        "itemId":"i010",
+                        "description": "BOSE HD Home Theater",
+                        "quantityPurchased":"1",
+                        "price":"406.50" 
+                    }
+                ]
+            },
+            {
+                "transactionId":"5",
+                "customerId":"2",
+                "transactionDate":"02/21/2021",
+                "total":"116.00",
+                "items":[
+                    {
+                        "itemId":"i030",
+                        "description": "JBL FLip 5 speaker",
+                        "quantityPurchased":"1",
+                        "price":"116.00" 
+                    }
+                ]
+            }
+        ]
+    }
+}

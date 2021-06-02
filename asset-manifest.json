@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/customer-rewards/static/css/main.8588d990.chunk.css",
+    "main.js": "/customer-rewards/static/js/main.3d30afae.chunk.js",
+    "main.js.map": "/customer-rewards/static/js/main.3d30afae.chunk.js.map",
+    "runtime-main.js": "/customer-rewards/static/js/runtime-main.5750bfab.js",
+    "runtime-main.js.map": "/customer-rewards/static/js/runtime-main.5750bfab.js.map",
+    "static/css/2.fa370958.chunk.css": "/customer-rewards/static/css/2.fa370958.chunk.css",
+    "static/js/2.37f5281b.chunk.js": "/customer-rewards/static/js/2.37f5281b.chunk.js",
+    "static/js/2.37f5281b.chunk.js.map": "/customer-rewards/static/js/2.37f5281b.chunk.js.map",
+    "static/js/3.be5006d6.chunk.js": "/customer-rewards/static/js/3.be5006d6.chunk.js",
+    "static/js/3.be5006d6.chunk.js.map": "/customer-rewards/static/js/3.be5006d6.chunk.js.map",
+    "index.html": "/customer-rewards/index.html",
+    "static/css/2.fa370958.chunk.css.map": "/customer-rewards/static/css/2.fa370958.chunk.css.map",
+    "static/css/main.8588d990.chunk.css.map": "/customer-rewards/static/css/main.8588d990.chunk.css.map",
+    "static/js/2.37f5281b.chunk.js.LICENSE.txt": "/customer-rewards/static/js/2.37f5281b.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/customer-rewards/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5750bfab.js",
+    "static/css/2.fa370958.chunk.css",
+    "static/js/2.37f5281b.chunk.js",
+    "static/css/main.8588d990.chunk.css",
+    "static/js/main.3d30afae.chunk.js"
+  ]
+}
