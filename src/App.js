@@ -44,6 +44,7 @@ class App extends Component {
 
   handleClickOnCustomer = (e, customerId) => {
     e.preventDefault();
+    this.setState({filteredTransactions: []});
     const selectedCustomer = this.state.customers.find(customer => customer.customerId === customerId);
     const filteredTransactions = this.state.transactions.filter(transaction => transaction.customerId === customerId);
     const TransactionsWithPoints = calculateRewardsPoints(filteredTransactions);
